@@ -59,8 +59,6 @@ Deployment: Vercel / Netlify (frontend), Heroku / Render / DigitalOcean (backend
 
 Testing: Jest / React Testing Library, Supertest for API endpoints
 
-
-
 📁 Repository structure (suggested)
 food-pizza/
 ├─ .github/
