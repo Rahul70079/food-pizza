@@ -1,5 +1,4 @@
 
-
 Food Pizza — Fullstack Project
 
 A simple, modern full-stack web application for ordering pizzas: menu browsing, cart, checkout (mock), order management, and admin dashboard. Designed as a starter / demo project to learn full-stack patterns (React + Node/Express + MongoDB / PostgreSQL) and to show best practices for project structure, environment setup, and deployment.
